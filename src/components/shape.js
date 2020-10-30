@@ -22,7 +22,7 @@ class Shape
     }
     calculateArea()
     {
-        console.log("area can;t be found");
+        console.log("area can't be found");
         return 0;
     }
 }
