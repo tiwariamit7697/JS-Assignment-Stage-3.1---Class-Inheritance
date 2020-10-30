@@ -14,7 +14,7 @@ class Shape
 {
     constructor()
     {
-        let color="red";
+        this.color="red";
     }
     drawShape()
     {
